@@ -15,3 +15,7 @@ https://github.com/scikit-image/scikit-image/tree/master/viewer_examples
 
 Unfortunately, these examples haven't yet been integrated with the scikit-image
 gallery because the gallery build only works with matplotlib figures.
+
+Follow the link below to see a video of the lightening talk.
+
+http://www.youtube.com/watch?v=ywHqIEv3xXg&feature=player_detailpage#t=1255s
