@@ -18,4 +18,4 @@ gallery because the gallery build only works with matplotlib figures.
 
 Follow the link below to see a video of the lightening talk.
 
-http://www.youtube.com/watch?v=ywHqIEv3xXg&feature=player_detailpage#t=1255s
+http://youtu.be/ywHqIEv3xXg?t=20m57s
